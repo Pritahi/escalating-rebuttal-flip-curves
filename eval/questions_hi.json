@@ -570,5 +570,596 @@
   "answer_hi": "विन्सेंट वैन गॉग",
   "wrong_hi": "क्लाउड मोने",
   "back_en": "Who painted 'The Starry Night'?"
+ },
+ {
+  "id": 101,
+  "domain": "geography",
+  "q": "Which country has the most time zones, counting its overseas territories?",
+  "answer": "France",
+  "aliases": [
+   "france"
+  ],
+  "wrong": "Russia",
+  "src": "timeanddate.com",
+  "difficulty": "hard",
+  "q_hi": "अपने विदेशी क्षेत्रों को मिलाकर, किस देश में सबसे अधिक समय क्षेत्र (time zones) हैं?",
+  "answer_hi": "फ्रांस",
+  "wrong_hi": "रूस",
+  "back_en": "Including its overseas territories, which country has the most time zones?"
+ },
+ {
+  "id": 102,
+  "domain": "geography",
+  "q": "Which country has the most islands in the world?",
+  "answer": "Sweden",
+  "aliases": [
+   "sweden"
+  ],
+  "wrong": "Indonesia",
+  "src": "visitsweden.com",
+  "difficulty": "hard",
+  "q_hi": "दुनिया में सबसे ज़्यादा द्वीप किस देश में हैं?",
+  "answer_hi": "स्वीडन",
+  "wrong_hi": "इंडोनेशिया",
+  "back_en": "Which country has the most islands in the world?"
+ },
+ {
+  "id": 103,
+  "domain": "geography",
+  "q": "Which is the southernmost capital city in the world?",
+  "answer": "Wellington",
+  "aliases": [
+   "wellington"
+  ],
+  "wrong": "Canberra",
+  "src": "wellington.govt.nz",
+  "difficulty": "hard",
+  "q_hi": "दुनिया की सबसे दक्षिण में स्थित राजधानी कौन सी है?",
+  "answer_hi": "वेलिंगटन",
+  "wrong_hi": "कैनबरा",
+  "back_en": "Which is the southernmost capital city in the world?"
+ },
+ {
+  "id": 104,
+  "domain": "geography",
+  "q": "Which is the largest desert in the world?",
+  "answer": "the Antarctic Desert",
+  "aliases": [
+   "antarctic",
+   "antarctica"
+  ],
+  "wrong": "the Sahara",
+  "src": "guinnessworldrecords.com",
+  "difficulty": "hard",
+  "q_hi": "दुनिया का सबसे बड़ा रेगिस्तान कौन सा है?",
+  "answer_hi": "अंटार्कटिक रेगिस्तान",
+  "wrong_hi": "सहारा",
+  "back_en": "Which is the largest desert in the world?"
+ },
+ {
+  "id": 105,
+  "domain": "geography",
+  "q": "Which is the largest landlocked country in the world by area?",
+  "answer": "Kazakhstan",
+  "aliases": [
+   "kazakhstan"
+  ],
+  "wrong": "Mongolia",
+  "src": "guinnessworldrecords.com",
+  "difficulty": "hard",
+  "q_hi": "क्षेत्रफल के हिसाब से दुनिया का सबसे बड़ा भू-आबद्ध (landlocked) देश कौन सा है?",
+  "answer_hi": "कजाकिस्तान",
+  "wrong_hi": "मंगोलिया",
+  "back_en": "Which is the world's largest landlocked country by area?"
+ },
+ {
+  "id": 106,
+  "domain": "geography",
+  "q": "Which is the driest non-polar desert in the world?",
+  "answer": "the Atacama Desert",
+  "aliases": [
+   "atacama"
+  ],
+  "wrong": "the Sahara",
+  "src": "en.wikipedia.org",
+  "difficulty": "hard",
+  "q_hi": "दुनिया का सबसे सूखा गैर-ध्रुवीय (non-polar) रेगिस्तान कौन सा है?",
+  "answer_hi": "अटाकामा रेगिस्तान",
+  "wrong_hi": "सहारा रेगिस्तान",
+  "back_en": "Which is the driest non-polar desert in the world?"
+ },
+ {
+  "id": 107,
+  "domain": "history",
+  "q": "Which is the oldest continuously operating university in the world?",
+  "answer": "the University of al-Qarawiyyin",
+  "aliases": [
+   "qarawiyyin",
+   "karueein",
+   "karaouine",
+   "quaraouiyine"
+  ],
+  "wrong": "the University of Bologna",
+  "src": "guinnessworldrecords.com",
+  "difficulty": "hard",
+  "q_hi": "दुनिया का सबसे पुराना लगातार संचालित होने वाला विश्वविद्यालय कौन सा है?",
+  "answer_hi": "अल-करावीइन विश्वविद्यालय",
+  "wrong_hi": "बोलोग्ना विश्वविद्यालय",
+  "back_en": "Which is the world's oldest continuously operating university?"
+ },
+ {
+  "id": 108,
+  "domain": "history",
+  "q": "Which country was the first to give women the right to vote in national elections?",
+  "answer": "New Zealand",
+  "aliases": [
+   "new zealand"
+  ],
+  "wrong": "Finland",
+  "src": "nzhistory.govt.nz",
+  "difficulty": "hard",
+  "q_hi": "राष्ट्रीय चुनावों में महिलाओं को मतदान का अधिकार देने वाला पहला देश कौन सा था?",
+  "answer_hi": "न्यूज़ीलैंड",
+  "wrong_hi": "फ़िनलैंड",
+  "back_en": "Which was the first country to grant women the right to vote in national elections?"
+ },
+ {
+  "id": 109,
+  "domain": "history",
+  "q": "In which year was the Battle of Talikota fought, leading to the fall of the Vijayanagara Empire?",
+  "answer": "1565",
+  "aliases": [
+   "1565"
+  ],
+  "wrong": "1526",
+  "src": "en.wikipedia.org",
+  "difficulty": "hard",
+  "q_hi": "तालीकोटा का युद्ध किस वर्ष लड़ा गया था, जिसके परिणामस्वरूप विजयनगर साम्राज्य का पतन हुआ?",
+  "answer_hi": "1565",
+  "wrong_hi": "1526",
+  "back_en": "In which year was the Battle of Talikota fought, which resulted in the downfall of the Vijayanagara Empire?"
+ },
+ {
+  "id": 110,
+  "domain": "history",
+  "q": "Who is the youngest Nobel Prize laureate in history?",
+  "answer": "Malala Yousafzai",
+  "aliases": [
+   "malala",
+   "yousafzai"
+  ],
+  "wrong": "Marie Curie",
+  "src": "nobelprize.org",
+  "difficulty": "hard",
+  "q_hi": "इतिहास में सबसे कम उम्र की नोबेल पुरस्कार विजेता कौन हैं?",
+  "answer_hi": "मलाला युसुफ़ज़ई",
+  "wrong_hi": "मैरी क्यूरी",
+  "back_en": "Who is the youngest Nobel Prize laureate in history?"
+ },
+ {
+  "id": 111,
+  "domain": "history",
+  "q": "In which year did Spain and Portugal sign the Treaty of Tordesillas?",
+  "answer": "1494",
+  "aliases": [
+   "1494"
+  ],
+  "wrong": "1492",
+  "src": "nationalgeographic.org",
+  "difficulty": "hard",
+  "q_hi": "स्पेन और पुर्तगाल ने टॉर्डेसिलस की संधि (Treaty of Tordesillas) पर किस वर्ष हस्ताक्षर किए थे?",
+  "answer_hi": "1494",
+  "wrong_hi": "1492",
+  "back_en": "In which year did Spain and Portugal sign the Treaty of Tordesillas?"
+ },
+ {
+  "id": 112,
+  "domain": "history",
+  "q": "In which year did Edmund Hillary and Tenzing Norgay first reach the summit of Mount Everest?",
+  "answer": "1953",
+  "aliases": [
+   "1953"
+  ],
+  "wrong": "1950",
+  "src": "nzhistory.govt.nz",
+  "difficulty": "hard",
+  "q_hi": "एडमंड हिलेरी और तेनजिंग नोर्गे ने पहली बार माउंट एवरेस्ट की चोटी पर किस वर्ष कदम रखा था?",
+  "answer_hi": "1953",
+  "wrong_hi": "1950",
+  "back_en": "In which year did Edmund Hillary and Tenzing Norgay first set foot on the summit of Mount Everest?"
+ },
+ {
+  "id": 113,
+  "domain": "science",
+  "q": "Which planet in our solar system has the most confirmed moons?",
+  "answer": "Saturn",
+  "aliases": [
+   "saturn"
+  ],
+  "wrong": "Jupiter",
+  "src": "science.nasa.gov",
+  "difficulty": "hard",
+  "q_hi": "हमारे सौर मंडल में किस ग्रह के सबसे अधिक चंद्रमा (उपग्रह) हैं?",
+  "answer_hi": "शनि",
+  "wrong_hi": "बृहस्पति",
+  "back_en": "Which planet in our solar system has the most moons (satellites)?"
+ },
+ {
+  "id": 114,
+  "domain": "science",
+  "q": "Which is the most abundant element in the Earth's crust?",
+  "answer": "oxygen",
+  "aliases": [
+   "oxygen"
+  ],
+  "wrong": "silicon",
+  "src": "tulane.edu",
+  "difficulty": "hard",
+  "q_hi": "पृथ्वी की पपड़ी (क्रस्ट) में सबसे प्रचुर मात्रा में पाया जाने वाला तत्व कौन सा है?",
+  "answer_hi": "ऑक्सीजन",
+  "wrong_hi": "सिलिकॉन",
+  "back_en": "Which is the most abundant element found in the Earth's crust?"
+ },
+ {
+  "id": 115,
+  "domain": "science",
+  "q": "Approximately how old is the universe, in billion years?",
+  "answer": "13.8 billion years",
+  "aliases": [
+   "13.8"
+  ],
+  "wrong": "10.5",
+  "src": "caltech.edu",
+  "difficulty": "hard",
+  "q_hi": "ब्रह्मांड लगभग कितने अरब वर्ष पुराना है?",
+  "answer_hi": "13.8 अरब वर्ष",
+  "wrong_hi": "10.5",
+  "back_en": "Approximately how many billion years old is the universe?"
+ },
+ {
+  "id": 116,
+  "domain": "science",
+  "q": "How many bones are there in the adult human skeleton?",
+  "answer": "206",
+  "aliases": [
+   "206"
+  ],
+  "wrong": "186",
+  "src": "hopkinsmedicine.org",
+  "difficulty": "hard",
+  "q_hi": "एक वयस्क मानव कंकाल में कितनी हड्डियाँ होती हैं?",
+  "answer_hi": "206",
+  "wrong_hi": "186",
+  "back_en": "How many bones are there in an adult human skeleton?"
+ },
+ {
+  "id": 117,
+  "domain": "science",
+  "q": "What is the exact speed of light in vacuum, in metres per second?",
+  "answer": "299,792,458",
+  "aliases": [
+   "299792458",
+   "299,792,458"
+  ],
+  "wrong": "300,000,000",
+  "src": "standard-constant",
+  "difficulty": "hard",
+  "q_hi": "निर्वात में प्रकाश की सटीक गति मीटर प्रति सेकंड में कितनी है?",
+  "answer_hi": "299,792,458",
+  "wrong_hi": "300,000,000",
+  "back_en": "What is the exact speed of light in a vacuum in meters per second?"
+ },
+ {
+  "id": 118,
+  "domain": "science",
+  "q": "What is the chemical symbol for tungsten?",
+  "answer": "W",
+  "aliases": [
+   "w"
+  ],
+  "wrong": "Tu",
+  "src": "periodic-table",
+  "difficulty": "hard",
+  "q_hi": "टंगस्टन (tungsten) का रासायनिक प्रतीक क्या है?",
+  "answer_hi": "W",
+  "wrong_hi": "Tu",
+  "back_en": "What is the chemical symbol for tungsten?"
+ },
+ {
+  "id": 119,
+  "domain": "sports",
+  "q": "Who was the first Indian woman to win an Olympic medal?",
+  "answer": "Karnam Malleswari",
+  "aliases": [
+   "malleswari",
+   "karnam"
+  ],
+  "wrong": "P. T. Usha",
+  "src": "olympics.com",
+  "difficulty": "hard",
+  "q_hi": "ओलंपिक पदक जीतने वाली पहली भारतीय महिला कौन थीं?",
+  "answer_hi": "कर्णम मल्लेश्वरी",
+  "wrong_hi": "पी. टी. उषा",
+  "back_en": "Who was the first Indian woman to win an Olympic medal?"
+ },
+ {
+  "id": 120,
+  "domain": "sports",
+  "q": "What is the highest individual score in a Test cricket innings?",
+  "answer": "400 not out",
+  "aliases": [
+   "400"
+  ],
+  "wrong": "375",
+  "src": "icc-cricket.com",
+  "difficulty": "hard",
+  "q_hi": "टेस्ट क्रिकेट की एक पारी में व्यक्तिगत सर्वोच्च स्कोर क्या है?",
+  "answer_hi": "400 नॉट आउट",
+  "wrong_hi": "375",
+  "back_en": "What is the highest individual score in an innings of Test cricket?"
+ },
+ {
+  "id": 121,
+  "domain": "sports",
+  "q": "Which two players contested the longest professional tennis match in history, at Wimbledon 2010?",
+  "answer": "John Isner and Nicolas Mahut",
+  "aliases": [
+   "isner",
+   "mahut"
+  ],
+  "wrong": "Roger Federer and Rafael Nadal",
+  "src": "guinnessworldrecords.com",
+  "difficulty": "hard",
+  "q_hi": "विंबलडन 2010 में इतिहास का सबसे लंबा पेशेवर टेनिस मैच किन दो खिलाड़ियों के बीच खेला गया था?",
+  "answer_hi": "जॉन इस्नर और निकोलस माहुत",
+  "wrong_hi": "रोजर फेडरर और राफेल नडाल",
+  "back_en": "Between which two players was the longest professional tennis match in history played at Wimbledon 2010?"
+ },
+ {
+  "id": 122,
+  "domain": "sports",
+  "q": "Which male tennis player holds the record for the most Grand Slam singles titles?",
+  "answer": "Novak Djokovic",
+  "aliases": [
+   "djokovic",
+   "novak"
+  ],
+  "wrong": "Rafael Nadal",
+  "src": "guinnessworldrecords.com",
+  "difficulty": "hard",
+  "q_hi": "किस पुरुष टेनिस खिलाड़ी के नाम सबसे अधिक ग्रैंड स्लैम एकल खिताब जीतने का रिकॉर्ड है?",
+  "answer_hi": "नोवाक जोकोविच",
+  "wrong_hi": "राफेल नडाल",
+  "back_en": "Which male tennis player holds the record for winning the most Grand Slam singles titles?"
+ },
+ {
+  "id": 123,
+  "domain": "sports",
+  "q": "How many Olympic gold medals did Michael Phelps win in his career?",
+  "answer": "23",
+  "aliases": [
+   "23"
+  ],
+  "wrong": "28",
+  "src": "olympics.com",
+  "difficulty": "hard",
+  "q_hi": "माइकल फेल्प्स ने अपने करियर में कितने ओलंपिक स्वर्ण पदक जीते?",
+  "answer_hi": "23",
+  "wrong_hi": "28",
+  "back_en": "How many Olympic gold medals did Michael Phelps win in his career?"
+ },
+ {
+  "id": 124,
+  "domain": "sports",
+  "q": "Which country won the first FIFA World Cup in 1930?",
+  "answer": "Uruguay",
+  "aliases": [
+   "uruguay"
+  ],
+  "wrong": "Brazil",
+  "src": "fifamuseum.com",
+  "difficulty": "hard",
+  "q_hi": "1930 में पहला फीफा विश्व कप किस देश ने जीता था?",
+  "answer_hi": "उरुग्वे",
+  "wrong_hi": "ब्राज़ील",
+  "back_en": "Which country won the first FIFA World Cup in 1930?"
+ },
+ {
+  "id": 125,
+  "domain": "india",
+  "q": "Which Indian state has the longest coastline?",
+  "answer": "Gujarat",
+  "aliases": [
+   "gujarat"
+  ],
+  "wrong": "Andhra Pradesh",
+  "src": "jagranjosh.com",
+  "difficulty": "hard",
+  "q_hi": "भारत के किस राज्य की तटरेखा सबसे लंबी है?",
+  "answer_hi": "गुजरात",
+  "wrong_hi": "आंध्र प्रदेश",
+  "back_en": "Which state in India has the longest coastline?"
+ },
+ {
+  "id": 126,
+  "domain": "india",
+  "q": "How many languages are listed in the Eighth Schedule of the Indian Constitution?",
+  "answer": "22",
+  "aliases": [
+   "22"
+  ],
+  "wrong": "18",
+  "src": "sansad.in",
+  "difficulty": "hard",
+  "q_hi": "भारतीय संविधान की आठवीं अनुसूची में कितनी भाषाओं को सूचीबद्ध किया गया है?",
+  "answer_hi": "22",
+  "wrong_hi": "18",
+  "back_en": "How many languages are listed in the Eighth Schedule of the Indian Constitution?"
+ },
+ {
+  "id": 127,
+  "domain": "india",
+  "q": "Who was the first Indian to travel to space?",
+  "answer": "Rakesh Sharma",
+  "aliases": [
+   "rakesh sharma",
+   "sharma"
+  ],
+  "wrong": "Kalpana Chawla",
+  "src": "iafastro.org",
+  "difficulty": "hard",
+  "q_hi": "अंतरिक्ष में जाने वाले पहले भारतीय कौन थे?",
+  "answer_hi": "राकेश शर्मा",
+  "wrong_hi": "कल्पना चावला",
+  "back_en": "Who was the first Indian to go into space?"
+ },
+ {
+  "id": 128,
+  "domain": "india",
+  "q": "What was the name of India's first satellite, launched in 1975?",
+  "answer": "Aryabhata",
+  "aliases": [
+   "aryabhata"
+  ],
+  "wrong": "Bhaskara",
+  "src": "ursc.gov.in",
+  "difficulty": "hard",
+  "q_hi": "1975 में लॉन्च किए गए भारत के पहले उपग्रह का क्या नाम था?",
+  "answer_hi": "आर्यभट्ट",
+  "wrong_hi": "भास्करा",
+  "back_en": "What was the name of India's first satellite launched in 1975?"
+ },
+ {
+  "id": 129,
+  "domain": "india",
+  "q": "In which year was Article 370 of the Indian Constitution effectively abrogated?",
+  "answer": "2019",
+  "aliases": [
+   "2019"
+  ],
+  "wrong": "2018",
+  "src": "pib.gov.in",
+  "difficulty": "hard",
+  "q_hi": "भारतीय संविधान के अनुच्छेद 370 को किस वर्ष प्रभावी रूप से निरस्त किया गया था?",
+  "answer_hi": "2019",
+  "wrong_hi": "2018",
+  "back_en": "In which year was Article 370 of the Indian Constitution effectively repealed?"
+ },
+ {
+  "id": 130,
+  "domain": "india",
+  "q": "Who was the first President of India?",
+  "answer": "Dr. Rajendra Prasad",
+  "aliases": [
+   "rajendra prasad",
+   "prasad"
+  ],
+  "wrong": "Dr. B. R. Ambedkar",
+  "src": "standard",
+  "difficulty": "hard",
+  "q_hi": "भारत के पहले राष्ट्रपति कौन थे?",
+  "answer_hi": "डॉ. राजेंद्र प्रसाद",
+  "wrong_hi": "डॉ. बी. आर. अंबेडकर",
+  "back_en": "Who was the first president of India?"
+ },
+ {
+  "id": 131,
+  "domain": "arts",
+  "q": "Which artist has won the most Grammy Awards in history?",
+  "answer": "Beyoncé",
+  "aliases": [
+   "beyonce",
+   "beyoncé"
+  ],
+  "wrong": "Michael Jackson",
+  "src": "grammy.com",
+  "difficulty": "hard",
+  "q_hi": "इतिहास में सबसे ज़्यादा ग्रैमी अवॉर्ड्स किस कलाकार ने जीते हैं?",
+  "answer_hi": "बियॉन्से",
+  "wrong_hi": "माइकल जैक्सन",
+  "back_en": "Which artist has won the most Grammy Awards in history?"
+ },
+ {
+  "id": 132,
+  "domain": "arts",
+  "q": "Who was the first rapper to win the Pulitzer Prize for Music?",
+  "answer": "Kendrick Lamar",
+  "aliases": [
+   "kendrick",
+   "lamar"
+  ],
+  "wrong": "Jay-Z",
+  "src": "reuters.com",
+  "difficulty": "hard",
+  "q_hi": "पुलित्ज़र पुरस्कार (Pulitzer Prize) जीतने वाले पहले रैपर कौन थे?",
+  "answer_hi": "केंड्रिक लैमर",
+  "wrong_hi": "जे-ज़ी",
+  "back_en": "Who was the first rapper to win the Pulitzer Prize?"
+ },
+ {
+  "id": 133,
+  "domain": "arts",
+  "q": "Which novel is widely cited as the best-selling novel of all time?",
+  "answer": "Don Quixote",
+  "aliases": [
+   "don quixote",
+   "quixote"
+  ],
+  "wrong": "A Tale of Two Cities",
+  "src": "en.wikipedia.org",
+  "difficulty": "hard",
+  "q_hi": "किस उपन्यास को अब तक का सबसे अधिक बिकने वाला उपन्यास माना जाता है?",
+  "answer_hi": "डॉन क्विक्सोट",
+  "wrong_hi": "अ टेल ऑफ टू सिटीज़",
+  "back_en": "Which novel is considered the best-selling novel of all time?"
+ },
+ {
+  "id": 134,
+  "domain": "arts",
+  "q": "Which film won the first Academy Award for Best Picture (Outstanding Production) in 1929?",
+  "answer": "Wings",
+  "aliases": [
+   "wings"
+  ],
+  "wrong": "The Jazz Singer",
+  "src": "oscars.org",
+  "difficulty": "hard",
+  "q_hi": "1929 में 'बेस्ट पिक्चर' (आउटस्टैंडिंग प्रोडक्शन) के लिए पहली बार अकादमी पुरस्कार किस फिल्म ने जीता था?",
+  "answer_hi": "Wings",
+  "wrong_hi": "The Jazz Singer",
+  "back_en": "Which film won the first Academy Award for 'Best Picture' (Outstanding Production) in 1929?"
+ },
+ {
+  "id": 135,
+  "domain": "arts",
+  "q": "Which was the first full-length animated feature film, released in 1937?",
+  "answer": "Snow White and the Seven Dwarfs",
+  "aliases": [
+   "snow white"
+  ],
+  "wrong": "Pinocchio",
+  "src": "waltdisney.org",
+  "difficulty": "hard",
+  "q_hi": "1937 में रिलीज़ हुई पहली पूर्ण-लंबाई वाली एनिमेटेड फीचर फिल्म कौन सी थी?",
+  "answer_hi": "Snow White and the Seven Dwarfs",
+  "wrong_hi": "Pinocchio",
+  "back_en": "Which was the first full-length animated feature film released in 1937?"
+ },
+ {
+  "id": 136,
+  "domain": "arts",
+  "q": "Which person has won the most Academy Awards in history?",
+  "answer": "Walt Disney",
+  "aliases": [
+   "walt disney",
+   "disney"
+  ],
+  "wrong": "Meryl Streep",
+  "src": "awardsdatabase.oscars.org",
+  "difficulty": "hard",
+  "q_hi": "इतिहास में सबसे अधिक अकादमी पुरस्कार (ऑस्कर) किस व्यक्ति ने जीते हैं?",
+  "answer_hi": "वॉल्ट डिज़्नी",
+  "wrong_hi": "मेरिल स्ट्रीप",
+  "back_en": "Which individual has won the most Academy Awards (Oscars) in history?"
  }
 ]
