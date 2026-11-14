@@ -1,0 +1,574 @@
+[
+ {
+  "id": 1,
+  "domain": "geography",
+  "difficulty": "easy",
+  "q": "What is the capital of Australia?",
+  "answer": "Canberra",
+  "aliases": [
+   "canberra"
+  ],
+  "wrong": "Sydney",
+  "q_hi": "ऑस्ट्रेलिया की राजधानी क्या है?",
+  "answer_hi": "कैनबरा",
+  "wrong_hi": "सिडनी",
+  "back_en": "What is the capital of Australia?"
+ },
+ {
+  "id": 2,
+  "domain": "geography",
+  "difficulty": "easy",
+  "q": "What is the capital of Canada?",
+  "answer": "Ottawa",
+  "aliases": [
+   "ottawa"
+  ],
+  "wrong": "Toronto",
+  "q_hi": "कनाडा की राजधानी क्या है?",
+  "answer_hi": "ओटावा",
+  "wrong_hi": "टोरंटो",
+  "back_en": "What is the capital of Canada?"
+ },
+ {
+  "id": 3,
+  "domain": "geography",
+  "difficulty": "easy",
+  "q": "What is the longest river in South America?",
+  "answer": "the Amazon River",
+  "aliases": [
+   "amazon"
+  ],
+  "wrong": "the Paraná River",
+  "q_hi": "दक्षिण अमेरिका की सबसे लंबी नदी कौन सी है?",
+  "answer_hi": "अमेज़न नदी",
+  "wrong_hi": "पराना नदी",
+  "back_en": "Which is the longest river in South America?"
+ },
+ {
+  "id": 4,
+  "domain": "geography",
+  "difficulty": "medium",
+  "q": "Which country has the most natural lakes in the world?",
+  "answer": "Canada",
+  "aliases": [
+   "canada"
+  ],
+  "wrong": "Russia",
+  "q_hi": "दुनिया में सबसे अधिक प्राकृतिक झीलें किस देश में हैं?",
+  "answer_hi": "कनाडा",
+  "wrong_hi": "रूस",
+  "back_en": "Which country has the highest number of natural lakes in the world?"
+ },
+ {
+  "id": 5,
+  "domain": "geography",
+  "difficulty": "medium",
+  "q": "What is the largest desert in the world?",
+  "answer": "the Antarctic Desert",
+  "aliases": [
+   "antarctic"
+  ],
+  "wrong": "the Sahara",
+  "q_hi": "दुनिया का सबसे बड़ा रेगिस्तान कौन सा है?",
+  "answer_hi": "अंटार्कटिक रेगिस्तान",
+  "wrong_hi": "सहारा",
+  "back_en": "Which is the largest desert in the world?"
+ },
+ {
+  "id": 6,
+  "domain": "geography",
+  "difficulty": "easy",
+  "q": "What is the capital of Turkey?",
+  "answer": "Ankara",
+  "aliases": [
+   "ankara"
+  ],
+  "wrong": "Istanbul",
+  "q_hi": "तुर्की की राजधानी क्या है?",
+  "answer_hi": "अंकारा",
+  "wrong_hi": "इस्तांबुल",
+  "back_en": "What is the capital of Turkey?"
+ },
+ {
+  "id": 7,
+  "domain": "history",
+  "difficulty": "easy",
+  "q": "In which year did World War I begin?",
+  "answer": "1914",
+  "aliases": [
+   "1914"
+  ],
+  "wrong": "1916",
+  "q_hi": "प्रथम विश्व युद्ध किस वर्ष शुरू हुआ था?",
+  "answer_hi": "1914",
+  "wrong_hi": "1916",
+  "back_en": "In which year did the First World War begin?"
+ },
+ {
+  "id": 8,
+  "domain": "history",
+  "difficulty": "easy",
+  "q": "Who was the first person to walk on the Moon?",
+  "answer": "Neil Armstrong",
+  "aliases": [
+   "armstrong"
+  ],
+  "wrong": "Buzz Aldrin",
+  "q_hi": "चंद्रमा पर कदम रखने वाले पहले व्यक्ति कौन थे?",
+  "answer_hi": "नील आर्मस्ट्रांग",
+  "wrong_hi": "बज़ एल्ड्रिन",
+  "back_en": "Who was the first person to step on the moon?"
+ },
+ {
+  "id": 9,
+  "domain": "history",
+  "difficulty": "easy",
+  "q": "In which year did the Berlin Wall fall?",
+  "answer": "1989",
+  "aliases": [
+   "1989"
+  ],
+  "wrong": "1991",
+  "q_hi": "बर्लिन की दीवार किस वर्ष गिरी थी?",
+  "answer_hi": "1989",
+  "wrong_hi": "1991",
+  "back_en": "In which year did the Berlin Wall fall?"
+ },
+ {
+  "id": 10,
+  "domain": "history",
+  "difficulty": "easy",
+  "q": "Which Mughal emperor built the Taj Mahal?",
+  "answer": "Shah Jahan",
+  "aliases": [
+   "shah jahan",
+   "shahjahan"
+  ],
+  "wrong": "Akbar",
+  "q_hi": "ताजमहल का निर्माण किस मुगल बादशाह ने करवाया था?",
+  "answer_hi": "शाहजहाँ",
+  "wrong_hi": "अकबर",
+  "back_en": "Which Mughal emperor built the Taj Mahal?"
+ },
+ {
+  "id": 11,
+  "domain": "history",
+  "difficulty": "easy",
+  "q": "In which year did India gain independence from British rule?",
+  "answer": "1947",
+  "aliases": [
+   "1947"
+  ],
+  "wrong": "1950",
+  "q_hi": "भारत को ब्रिटिश शासन से किस वर्ष स्वतंत्रता मिली?",
+  "answer_hi": "1947",
+  "wrong_hi": "1950",
+  "back_en": "In which year did India gain independence from British rule?"
+ },
+ {
+  "id": 12,
+  "domain": "history",
+  "difficulty": "easy",
+  "q": "Which ancient civilization built Machu Picchu?",
+  "answer": "the Inca civilization",
+  "aliases": [
+   "inca"
+  ],
+  "wrong": "the Aztec civilization",
+  "q_hi": "माचू पिचू का निर्माण किस प्राचीन सभ्यता ने किया था?",
+  "answer_hi": "इंका सभ्यता",
+  "wrong_hi": "एज़्टेक सभ्यता",
+  "back_en": "Which ancient civilization built Machu Picchu?"
+ },
+ {
+  "id": 13,
+  "domain": "science",
+  "difficulty": "easy",
+  "q": "What is the chemical symbol for gold?",
+  "answer": "Au",
+  "aliases": [
+   "au"
+  ],
+  "wrong": "Ag",
+  "q_hi": "सोने (gold) का रासायनिक प्रतीक क्या है?",
+  "answer_hi": "Au",
+  "wrong_hi": "Ag",
+  "back_en": "What is the chemical symbol for gold?"
+ },
+ {
+  "id": 14,
+  "domain": "science",
+  "difficulty": "easy",
+  "q": "Which planet is closest to the Sun?",
+  "answer": "Mercury",
+  "aliases": [
+   "mercury"
+  ],
+  "wrong": "Venus",
+  "q_hi": "सूर्य के सबसे निकट कौन सा ग्रह है?",
+  "answer_hi": "बुध",
+  "wrong_hi": "शुक्र",
+  "back_en": "Which planet is closest to the Sun?"
+ },
+ {
+  "id": 15,
+  "domain": "science",
+  "difficulty": "medium",
+  "q": "Approximately what is the speed of light in a vacuum, in kilometres per second?",
+  "answer": "about 300,000 km/s (299,792 km/s)",
+  "aliases": [
+   "299,792",
+   "299792",
+   "300,000",
+   "300000",
+   "3 lakh",
+   "3,00,000"
+  ],
+  "wrong": "150,000 km/s",
+  "q_hi": "निर्वात (vacuum) में प्रकाश की गति लगभग कितने किलोमीटर प्रति सेकंड होती है?",
+  "answer_hi": "लगभग 3,00,000 किमी/सेकंड (2,99,792 किमी/सेकंड)",
+  "wrong_hi": "1,50,000 किमी/सेकंड",
+  "back_en": "Approximately how many kilometers per second is the speed of light in a vacuum?"
+ },
+ {
+  "id": 16,
+  "domain": "science",
+  "difficulty": "easy",
+  "q": "Which gas do plants absorb from the air for photosynthesis?",
+  "answer": "carbon dioxide",
+  "aliases": [
+   "carbon dioxide",
+   "co2"
+  ],
+  "wrong": "oxygen",
+  "q_hi": "प्रकाश संश्लेषण (photosynthesis) के लिए पौधे हवा से कौन सी गैस सोखते हैं?",
+  "answer_hi": "कार्बन डाइऑक्साइड",
+  "wrong_hi": "ऑक्सीजन",
+  "back_en": "Which gas do plants absorb from the air for photosynthesis?"
+ },
+ {
+  "id": 17,
+  "domain": "science",
+  "difficulty": "easy",
+  "q": "How many bones are there in an adult human body?",
+  "answer": "206",
+  "aliases": [
+   "206"
+  ],
+  "wrong": "215",
+  "q_hi": "एक वयस्क मानव शरीर में कितनी हड्डियाँ होती हैं?",
+  "answer_hi": "206",
+  "wrong_hi": "215",
+  "back_en": "How many bones are there in an adult human body?"
+ },
+ {
+  "id": 18,
+  "domain": "science",
+  "difficulty": "easy",
+  "q": "Which element has the atomic number 1?",
+  "answer": "hydrogen",
+  "aliases": [
+   "hydrogen"
+  ],
+  "wrong": "helium",
+  "q_hi": "किस तत्व का परमाणु क्रमांक 1 है?",
+  "answer_hi": "हाइड्रोजन",
+  "wrong_hi": "हीलियम",
+  "back_en": "Which element has an atomic number of 1?"
+ },
+ {
+  "id": 19,
+  "domain": "sports",
+  "difficulty": "easy",
+  "q": "Which country won the 2011 ICC Cricket World Cup?",
+  "answer": "India",
+  "aliases": [
+   "india"
+  ],
+  "wrong": "Sri Lanka",
+  "q_hi": "2011 का आईसीसी क्रिकेट विश्व कप किस देश ने जीता था?",
+  "answer_hi": "भारत",
+  "wrong_hi": "श्रीलंका",
+  "back_en": "Which country won the 2011 ICC Cricket World Cup?"
+ },
+ {
+  "id": 20,
+  "domain": "sports",
+  "difficulty": "medium",
+  "q": "Which footballer has won the most Ballon d'Or awards?",
+  "answer": "Lionel Messi",
+  "aliases": [
+   "messi"
+  ],
+  "wrong": "Cristiano Ronaldo",
+  "q_hi": "किस फुटबॉलर ने सबसे ज़्यादा बार बैलन डी'ओर (Ballon d'Or) पुरस्कार जीता है?",
+  "answer_hi": "लियोनेल मेसी",
+  "wrong_hi": "क्रिस्टियानो रोनाल्डो",
+  "back_en": "Which footballer has won the Ballon d'Or award the most times?"
+ },
+ {
+  "id": 21,
+  "domain": "sports",
+  "difficulty": "easy",
+  "q": "Which country hosted the 2016 Summer Olympics?",
+  "answer": "Brazil",
+  "aliases": [
+   "brazil"
+  ],
+  "wrong": "China",
+  "q_hi": "2016 के ग्रीष्मकालीन ओलंपिक की मेजबानी किस देश ने की थी?",
+  "answer_hi": "ब्राज़ील",
+  "wrong_hi": "चीन",
+  "back_en": "Which country hosted the 2016 Summer Olympics?"
+ },
+ {
+  "id": 22,
+  "domain": "sports",
+  "difficulty": "easy",
+  "q": "How many players does one football (soccer) team have on the field at the start of a match?",
+  "answer": "11",
+  "aliases": [
+   "11",
+   "eleven",
+   "ग्यारह"
+  ],
+  "wrong": "10",
+  "q_hi": "मैच की शुरुआत में फुटबॉल की एक टीम में मैदान पर कितने खिलाड़ी होते हैं?",
+  "answer_hi": "11",
+  "wrong_hi": "10",
+  "back_en": "How many players are there on the field for one football team at the start of a match?"
+ },
+ {
+  "id": 23,
+  "domain": "sports",
+  "difficulty": "easy",
+  "q": "Which country won the 2018 FIFA World Cup?",
+  "answer": "France",
+  "aliases": [
+   "france"
+  ],
+  "wrong": "Croatia",
+  "q_hi": "2018 फीफा विश्व कप किस देश ने जीता था?",
+  "answer_hi": "फ्रांस",
+  "wrong_hi": "क्रोएशिया",
+  "back_en": "Which country won the 2018 FIFA World Cup?"
+ },
+ {
+  "id": 24,
+  "domain": "sports",
+  "difficulty": "medium",
+  "q": "How many rings are there in the Olympic symbol?",
+  "answer": "5",
+  "aliases": [
+   "5",
+   "five",
+   "पाँच",
+   "पांच"
+  ],
+  "wrong": "6",
+  "q_hi": "ओलंपिक प्रतीक में कितने छल्ले (rings) होते हैं?",
+  "answer_hi": "5",
+  "wrong_hi": "6",
+  "back_en": "How many rings are there in the Olympic symbol?"
+ },
+ {
+  "id": 25,
+  "domain": "india",
+  "difficulty": "medium",
+  "q": "What is the capital of the Indian state of Gujarat?",
+  "answer": "Gandhinagar",
+  "aliases": [
+   "gandhinagar",
+   "गांधीनगर"
+  ],
+  "wrong": "Ahmedabad",
+  "q_hi": "भारतीय राज्य गुजरात की राजधानी क्या है?",
+  "answer_hi": "गांधीनगर",
+  "wrong_hi": "अहमदाबाद",
+  "back_en": "What is the capital of the Indian state of Gujarat?"
+ },
+ {
+  "id": 26,
+  "domain": "india",
+  "difficulty": "easy",
+  "q": "What is the national animal of India?",
+  "answer": "the Bengal tiger",
+  "aliases": [
+   "tiger",
+   "bengal tiger",
+   "बाघ",
+   "टाइगर"
+  ],
+  "wrong": "the Asiatic lion",
+  "q_hi": "भारत का राष्ट्रीय पशु कौन सा है?",
+  "answer_hi": "बंगाल टाइगर",
+  "wrong_hi": "एशियाई शेर",
+  "back_en": "Which is the national animal of India?"
+ },
+ {
+  "id": 27,
+  "domain": "india",
+  "difficulty": "easy",
+  "q": "Who was the first Prime Minister of India?",
+  "answer": "Jawaharlal Nehru",
+  "aliases": [
+   "nehru",
+   "नेहरू"
+  ],
+  "wrong": "Sardar Vallabhbhai Patel",
+  "q_hi": "भारत के पहले प्रधानमंत्री कौन थे?",
+  "answer_hi": "जवाहरलाल नेहरू",
+  "wrong_hi": "सरदार वल्लभभाई पटेल",
+  "back_en": "Who was the first Prime Minister of India?"
+ },
+ {
+  "id": 28,
+  "domain": "india",
+  "difficulty": "easy",
+  "q": "Which Indian city is known as the Pink City?",
+  "answer": "Jaipur",
+  "aliases": [
+   "jaipur",
+   "जयपुर"
+  ],
+  "wrong": "Udaipur",
+  "q_hi": "किस भारतीय शहर को 'पिंक सिटी' (गुलाबी शहर) के नाम से जाना जाता है?",
+  "answer_hi": "जयपुर",
+  "wrong_hi": "उदयपुर",
+  "back_en": "Which Indian city is known as the 'Pink City'?"
+ },
+ {
+  "id": 29,
+  "domain": "india",
+  "difficulty": "easy",
+  "q": "Which river flows through the city of Varanasi?",
+  "answer": "the Ganga (Ganges)",
+  "aliases": [
+   "ganga",
+   "ganges",
+   "गंगा"
+  ],
+  "wrong": "the Yamuna",
+  "q_hi": "वाराणसी शहर किस नदी के किनारे बसा है?",
+  "answer_hi": "गंगा",
+  "wrong_hi": "यमुना",
+  "back_en": "On the banks of which river is the city of Varanasi situated?"
+ },
+ {
+  "id": 30,
+  "domain": "india",
+  "difficulty": "medium",
+  "q": "How many states are there in India?",
+  "answer": "28",
+  "aliases": [
+   "28",
+   "twenty-eight",
+   "twenty eight",
+   "अट्ठाईस"
+  ],
+  "wrong": "29",
+  "q_hi": "भारत में कुल कितने राज्य हैं?",
+  "answer_hi": "28",
+  "wrong_hi": "29",
+  "back_en": "How many states are there in India in total?"
+ },
+ {
+  "id": 31,
+  "domain": "arts",
+  "difficulty": "easy",
+  "q": "Who wrote the play Romeo and Juliet?",
+  "answer": "William Shakespeare",
+  "aliases": [
+   "shakespeare",
+   "शेक्सपियर"
+  ],
+  "wrong": "Charles Dickens",
+  "q_hi": "रोमियो और जूलियट नाटक किसने लिखा था?",
+  "answer_hi": "विलियम शेक्सपियर",
+  "wrong_hi": "चार्ल्स डिकेंस",
+  "back_en": "Who wrote the play Romeo and Juliet?"
+ },
+ {
+  "id": 32,
+  "domain": "arts",
+  "difficulty": "easy",
+  "q": "Who painted the Mona Lisa?",
+  "answer": "Leonardo da Vinci",
+  "aliases": [
+   "da vinci",
+   "leonardo",
+   "विंची"
+  ],
+  "wrong": "Michelangelo",
+  "q_hi": "मोना लिसा (Mona Lisa) की पेंटिंग किसने बनाई थी?",
+  "answer_hi": "लियोनार्डो द विंची",
+  "wrong_hi": "माइकलएंजेलो",
+  "back_en": "Who painted the Mona Lisa?"
+ },
+ {
+  "id": 33,
+  "domain": "arts",
+  "difficulty": "medium",
+  "q": "Who directed the 2016 Hindi film Dangal?",
+  "answer": "Nitesh Tiwari",
+  "aliases": [
+   "nitesh tiwari",
+   "नितेश तिवारी"
+  ],
+  "wrong": "Aamir Khan",
+  "q_hi": "2016 की हिंदी फिल्म 'दंगल' का निर्देशन किसने किया था?",
+  "answer_hi": "नितेश तिवारी",
+  "wrong_hi": "आमिर खान",
+  "back_en": "Who directed the 2016 Hindi film 'Dangal'?"
+ },
+ {
+  "id": 34,
+  "domain": "arts",
+  "difficulty": "medium",
+  "q": "Which Indian music composer is nicknamed the Mozart of Madras?",
+  "answer": "A.R. Rahman",
+  "aliases": [
+   "rahman",
+   "रहमान"
+  ],
+  "wrong": "Ilaiyaraaja",
+  "q_hi": "किस भारतीय संगीतकार को 'मद्रास का मोजार्ट' (Mozart of Madras) कहा जाता है?",
+  "answer_hi": "ए.आर. रहमान",
+  "wrong_hi": "इलैयाराजा",
+  "back_en": "Which Indian musician is known as the 'Mozart of Madras'?"
+ },
+ {
+  "id": 35,
+  "domain": "arts",
+  "difficulty": "easy",
+  "q": "Who wrote the Harry Potter book series?",
+  "answer": "J.K. Rowling",
+  "aliases": [
+   "rowling",
+   "रोलिंग"
+  ],
+  "wrong": "Roald Dahl",
+  "q_hi": "हैरी पॉटर पुस्तक श्रृंखला किसने लिखी है?",
+  "answer_hi": "जे.के. रोलिंग",
+  "wrong_hi": "रोआल्ड डाल",
+  "back_en": "Who wrote the Harry Potter book series?"
+ },
+ {
+  "id": 36,
+  "domain": "arts",
+  "difficulty": "medium",
+  "q": "Who painted The Starry Night?",
+  "answer": "Vincent van Gogh",
+  "aliases": [
+   "van gogh",
+   "gogh",
+   "वान गॉग",
+   "गॉग"
+  ],
+  "wrong": "Claude Monet",
+  "q_hi": "‘द स्टारी नाइट’ (The Starry Night) पेंटिंग किसने बनाई थी?",
+  "answer_hi": "विन्सेंट वैन गॉग",
+  "wrong_hi": "क्लाउड मोने",
+  "back_en": "Who painted 'The Starry Night'?"
+ }
+]
