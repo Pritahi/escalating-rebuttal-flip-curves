@@ -1,0 +1,8 @@
+results.jsonl
+results_backup_preparse.jsonl
+*_partial.json
+*.log
+.env
+__pycache__/
+submission.docx
+template.docx
